@@ -15,8 +15,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = "MTUyMTE1MDQxNzQ2MjEwNDEwNA.GEBZ7y.jHx8gh4PjdMc7FtNu1NNxYnYDEZHF4-IGnHsOI"
-
+TOKEN = "MTUyMTE1MDQxNzQ2MjEwNDEwNA.Gan7VD.4ON7OITleZLrSsZXIjSD6zb6rZJBmGYv2ZTmks"
+print(len(TOKEN))
 
 INTENTS = discord.Intents.default()
 INTENTS.message_content = True
