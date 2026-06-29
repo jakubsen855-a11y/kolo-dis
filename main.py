@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-TOKEN = "MTUyMTE1MDQxNzQ2MjEwNDEwNA.GbyELW.6R4dRQAT9ZSi6b4I-rH_3qSgVdKeHmQf9AncQ4"
+TOKEN = "MTUyMTE1MDQxNzQ2MjEwNDEwNA.GEBZ7y.jHx8gh4PjdMc7FtNu1NNxYnYDEZHF4-IGnHsOI"
 
 
 INTENTS = discord.Intents.default()
