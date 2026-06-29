@@ -5,7 +5,7 @@ from discord.ext import commands
 
 from kolo import setup_kolo
 
-TOKEN = os.getenv(MTUyMTE1MDQxNzQ2MjEwNDEwNA.GbyELW.6R4dRQAT9ZSi6b4I-rH_3qSgVdKeHmQf9AncQ4)
+TOKEN = os.getenv("TOKEN")
 
 intents = discord.Intents.default()
 intents.members = True
